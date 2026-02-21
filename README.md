@@ -8,15 +8,6 @@ As a Senior Full Stack Developer, I specialize in building scalable and maintain
 
 ---
 
-### 🔧 **My Expertise**
-
-- Designing **robust, production-ready APIs** with clear boundaries between services
-- Architecting **front-end applications** using modern JavaScript frameworks that are highly scalable and performant
-- Building **Java-based back-end systems** designed for performance, reliability, and scalability
-- Ensuring code quality and maintainability with **unit tests**, **CI/CD pipelines**, and **code reviews**
-
----
-
 ### 💡 **How I Approach Development**
 
 - I focus on creating **clean, well-structured code** that can scale over time without becoming brittle
