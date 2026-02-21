@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="banner" />
+  <img src="[https://your-image-link.com/banner.png](https://github.com/katherinek727/katherinek727/blob/main/background.png)" alt="banner" />
 </p>
 
 ## **Building Scalable & Maintainable Systems, One Solution at a Time**
