@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/katherinek727/katherinek727/blob/main/background.png" style="height: 100" alt="banner" />
+  <img src="https://github.com/katherinek727/katherinek727/blob/main/background.png" width="800" height="500" alt="banner" />
 </p>
 
 ## **Building Scalable & Maintainable Systems, One Solution at a Time**
