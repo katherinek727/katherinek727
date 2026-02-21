@@ -29,7 +29,7 @@ As a Senior Full Stack Developer, I specialize in building scalable and maintain
 ### 🛠️ **Technologies I Use**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,next,vue,node,java,aws,mysql,python,git" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,next,vue,java,aws,mysql,python,git" />
 </p>
 
 ---
