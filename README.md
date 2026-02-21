@@ -1,60 +1,60 @@
-## Building reliable systems with clear structure and type safety.
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="banner" />
+</p>
 
-I’m a software engineer focused on building maintainable applications
-using TypeScript, JavaScript, and Java.
+## **I build clean, scalable systems that stand the test of time.**
 
-I care more about clarity, structure, and long-term reliability
-than quick hacks or short-lived solutions.
-
----
-
-### What I usually work on
-
-- Designing APIs and application logic with clear boundaries
-- Building frontend features that are predictable and easy to extend
-- Improving existing codebases instead of rewriting everything
+I’m a full-stack software engineer focused on **quality over speed**,  
+creating **maintainable and scalable** systems with **TypeScript, JavaScript, and Java**.
 
 ---
 
-### Core Technologies
+### 🔧 **What I specialize in**
 
-**TypeScript**
-- type-safe frontend and backend logic
-- catching problems before runtime
-
-**JavaScript**
-- practical UI behavior
-- integrations and tooling
-
-**Java**
-- structured backend services
-- systems built for long-term maintenance
+- Designing **maintainable APIs** with long-term scalability
+- Building **type-safe front-end** applications with a focus on clean architecture
+- Writing **backend services** in Java that scale as user demand grows
 
 ---
 
-### How I approach development
+### 💡 **How I solve problems**
 
-- I prefer explicit types over implicit assumptions
-- I value readable code over clever shortcuts
-- I optimize only after understanding real bottlenecks
-
----
-
-### Selected Work
-
-- **Web Applications**
-  - frontend logic built with TypeScript
-  - clean separation between UI and business logic
-
-- **Backend Systems**
-  - Java-based services with clear domain structure
-  - APIs designed for long-term use
+- I always begin by **understanding the problem space** before writing code
+- I focus on writing **clean, reusable** code that is easy to maintain
+- I create code that is **flexible enough to adapt to future requirements** while staying simple
 
 ---
 
-### Availability
+### 🛠️ **Technologies I use**
 
-- Open to freelance or contract work
-- Prefer async communication and clear requirements
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,java,aws,mysql,python,git" />
+</p>
 
-📫 Contact: your@email.com
+---
+
+### 📈 **Key Projects**
+
+- **[Real-time Chat Application](link)**  
+  Built with TypeScript and React, optimized for performance and scalability.  
+  **Key tech**: WebSocket, Redis for pub/sub.
+
+- **[Payment Processing System](link)**  
+  A secure payment gateway built in Java to handle high-volume transactions.  
+  **Key tech**: Spring Boot, PostgreSQL.
+
+---
+
+### 🚀 **My Impact**
+
+- **System Reliability:** Improved system uptime by 40% by optimizing core backend services.
+- **Speed:** Reduced page load time by 30% by refactoring front-end architecture with React.
+
+---
+
+### 📫 **Let’s Connect!**
+
+- **Open to freelance, contract, and remote work**
+- **Preferred communication:** Asynchronous for better planning and clarity
+
+📧 Contact me: **your@email.com**
