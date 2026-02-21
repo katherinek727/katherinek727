@@ -1,31 +1,33 @@
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="banner" />
+  <img src="https://your-image-link.com/banner.png" alt="banner" />
 </p>
 
-## **I build clean, scalable systems that stand the test of time.**
+## **Building Scalable & Maintainable Systems, One Solution at a Time**
 
-I’m a full-stack software engineer focused on **quality over speed**,  
-creating **maintainable and scalable** systems with **TypeScript, JavaScript, and Java**.
-
----
-
-### 🔧 **What I specialize in**
-
-- Designing **maintainable APIs** with long-term scalability
-- Building **type-safe front-end** applications with a focus on clean architecture
-- Writing **backend services** in Java that scale as user demand grows
+As a Senior Full Stack Developer, I specialize in creating highly scalable, maintainable systems that deliver results.  
+With expertise in **TypeScript, JavaScript, and Java**, I focus on delivering solutions that last, ensuring both immediate success and long-term viability.
 
 ---
 
-### 💡 **How I solve problems**
+### 🔧 **My Expertise**
 
-- I always begin by **understanding the problem space** before writing code
-- I focus on writing **clean, reusable** code that is easy to maintain
-- I create code that is **flexible enough to adapt to future requirements** while staying simple
+- Designing **robust, production-ready APIs** with clear boundaries between services
+- Architecting **front-end applications** using modern JavaScript frameworks that are highly scalable and performant
+- Building **Java-based back-end systems** designed for performance, reliability, and scalability
+- Ensuring code quality and maintainability with **unit tests**, **CI/CD pipelines**, and **code reviews**
 
 ---
 
-### 🛠️ **Technologies I use**
+### 💡 **How I Approach Development**
+
+- I focus on creating **clean, well-structured code** that can scale over time without becoming brittle
+- I prioritize understanding business requirements before diving into technical solutions
+- I believe in maintaining a **balance between speed and quality**, delivering reliable systems that meet both immediate needs and future goals
+- I constantly **refactor legacy systems** to improve maintainability without breaking functionality
+
+---
+
+### 🛠️ **Technologies I Use**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,java,aws,mysql,python,git" />
@@ -33,28 +35,30 @@ creating **maintainable and scalable** systems with **TypeScript, JavaScript, an
 
 ---
 
-### 📈 **Key Projects**
+### 📈 **Selected Projects**
 
-- **[Real-time Chat Application](link)**  
-  Built with TypeScript and React, optimized for performance and scalability.  
-  **Key tech**: WebSocket, Redis for pub/sub.
+- **[Real-Time Chat Application](link)**  
+  A full-stack solution built with **React**, **Node.js**, and **WebSocket**, optimized for performance and scalability, capable of handling thousands of users simultaneously.
 
-- **[Payment Processing System](link)**  
-  A secure payment gateway built in Java to handle high-volume transactions.  
-  **Key tech**: Spring Boot, PostgreSQL.
+- **[E-commerce Platform](link)**  
+  A highly customizable, scalable e-commerce platform built using **Java Spring Boot** and **MySQL**, integrated with **Stripe** for payments and **Elasticsearch** for advanced search capabilities.
+
+- **[Data Processing Pipeline](link)**  
+  Python-based data processing tool that takes in large datasets and runs complex transformations with minimal latency, designed to be easily scalable across multiple environments.
 
 ---
 
 ### 🚀 **My Impact**
 
-- **System Reliability:** Improved system uptime by 40% by optimizing core backend services.
-- **Speed:** Reduced page load time by 30% by refactoring front-end architecture with React.
+- **Increased system reliability by 40%** by optimizing key backend services and refactoring legacy code
+- Reduced **frontend load time by 30%** by optimizing React components and implementing server-side rendering (SSR)
+- Automated testing and **CI/CD integration** to ensure consistent delivery of quality code across environments
 
 ---
 
 ### 📫 **Let’s Connect!**
 
-- **Open to freelance, contract, and remote work**
-- **Preferred communication:** Asynchronous for better planning and clarity
+- **Open to freelance, contract, and full-time opportunities**
+- I prefer **asynchronous communication** for clear planning and efficient execution
 
 📧 Contact me: **your@email.com**
