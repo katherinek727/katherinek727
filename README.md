@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://github.com/katherinek727/katherinek727/blob/main/background.png" width="800" height="300" alt="banner" />
+  <img src="https://github.com/katherinek727/katherinek727/blob/main/background.png" width="800" height="350" alt="banner" />
 </p>
 
 ## **Building Scalable & Maintainable Systems, One Solution at a Time**
 
-As a Senior Full Stack Developer, I specialize in creating highly scalable, maintainable systems that deliver results.  
-With expertise in **TypeScript, JavaScript, and Java**, I focus on delivering solutions that last, ensuring both immediate success and long-term viability.
+As a Senior Full Stack Developer, I specialize in building scalable and maintainable systems using a wide range of modern technologies. My expertise spans frontend frameworks like React and Vue.js, backend solutions with Node.js, Java Spring Boot, and Python, and cloud platforms such as AWS and Azure. I focus on delivering reliable, high-performance software that is both flexible and future-proof, using best practices in DevOps, testing, and continuous integration. With a commitment to clean code and long-term system sustainability, I ensure every solution I build is designed to scale efficiently and adapt to evolving business needs
 
 ---
 
@@ -30,35 +29,8 @@ With expertise in **TypeScript, JavaScript, and Java**, I focus on delivering so
 ### 🛠️ **Technologies I Use**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,java,aws,mysql,python,git" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,next,vue,node,java,aws,mysql,python,git" />
 </p>
 
 ---
 
-### 📈 **Selected Projects**
-
-- **[Real-Time Chat Application](link)**  
-  A full-stack solution built with **React**, **Node.js**, and **WebSocket**, optimized for performance and scalability, capable of handling thousands of users simultaneously.
-
-- **[E-commerce Platform](link)**  
-  A highly customizable, scalable e-commerce platform built using **Java Spring Boot** and **MySQL**, integrated with **Stripe** for payments and **Elasticsearch** for advanced search capabilities.
-
-- **[Data Processing Pipeline](link)**  
-  Python-based data processing tool that takes in large datasets and runs complex transformations with minimal latency, designed to be easily scalable across multiple environments.
-
----
-
-### 🚀 **My Impact**
-
-- **Increased system reliability by 40%** by optimizing key backend services and refactoring legacy code
-- Reduced **frontend load time by 30%** by optimizing React components and implementing server-side rendering (SSR)
-- Automated testing and **CI/CD integration** to ensure consistent delivery of quality code across environments
-
----
-
-### 📫 **Let’s Connect!**
-
-- **Open to freelance, contract, and full-time opportunities**
-- I prefer **asynchronous communication** for clear planning and efficient execution
-
-📧 Contact me: **your@email.com**
